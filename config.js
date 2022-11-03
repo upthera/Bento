@@ -94,7 +94,7 @@ const CONFIG = {
       id: '1',
       name: 'Music',
       icon: 'headphones',
-      link: 'https://open.spotify.com',
+      link: 'https://deezer.com',
     },
     {
       id: '2',
